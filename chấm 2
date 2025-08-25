@@ -9,11 +9,10 @@
   <h1>🎬 Video của tôi</h1>
   
   <video width="720" controls>
-    <source src="Video%201.mp4" type="video/mp4">
+    <source src="chấm%202.mp4" type="video/mp4">
     Trình duyệt của bạn không hỗ trợ video.
   </video>
 
   <p>Ấn Play để xem 👆</p>
 </body>
 </html>
-
