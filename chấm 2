@@ -2,32 +2,18 @@
 <html lang="vi">
 <head>
   <meta charset="UTF-8">
-  <title>Video của tôi</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      margin: 40px;
-      background: #f4f4f9;
-    }
-    video {
-      width: 80%;
-      max-width: 800px;
-      border-radius: 12px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-    }
-    h1 {
-      margin-bottom: 20px;
-      color: #333;
-    }
-  </style>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Xem Video</title>
 </head>
-<body>
-  <h1>🎬 Video Demo</h1>
-
-  <video controls>
-    <source src="chấm 2.mp4" type="video/mp4">
-    Trình duyệt của bạn không hỗ trợ phát video.
+<body style="background:#111; color:white; text-align:center; font-family:sans-serif;">
+  <h1>🎬 Video của tôi</h1>
+  
+  <video width="720" controls>
+    <source src="Video%201.mp4" type="video/mp4">
+    Trình duyệt của bạn không hỗ trợ video.
   </video>
+
+  <p>Ấn Play để xem 👆</p>
 </body>
 </html>
+
