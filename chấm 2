@@ -6,13 +6,11 @@
   <title>Xem Video</title>
 </head>
 <body style="background:#111; color:white; text-align:center; font-family:sans-serif;">
-  <h1>🎬 Video của tôi</h1>
+  <h1>🎬 Video Demo</h1>
   
   <video width="720" controls>
     <source src="chấm 2.mp4" type="video/mp4">
-    Trình duyệt của bạn không hỗ trợ video.
+    Trình duyệt của bạn không hỗ trợ phát video.
   </video>
-
-  <p>Ấn Play để xem 👆</p>
 </body>
 </html>
