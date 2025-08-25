@@ -26,7 +26,7 @@
   <h1>🎬 Video Demo</h1>
 
   <video controls>
-    <source src="Video 2.mp4" type="video/mp4">
+    <source src="Video 2.mp4" type="video 2/mp4">
     Trình duyệt của bạn không hỗ trợ phát video.
   </video>
 </body>
